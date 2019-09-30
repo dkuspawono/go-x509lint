@@ -8,3 +8,4 @@ cd $GOPATH/src/github.com/crtsh/go-x509lint
 make
 go install
 ```
+
